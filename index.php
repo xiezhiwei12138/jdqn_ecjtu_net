@@ -14,7 +14,7 @@
     <link href="css/style_two.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <div class="w_content">
+    <div class="w_w">
     <div class="header">
         <img src="images/header.png" width="100%" height="100%" style="position:relative">
     </div>
